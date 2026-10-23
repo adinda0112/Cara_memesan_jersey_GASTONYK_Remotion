@@ -1,0 +1,9 @@
+VOICE-OVER FINAL — ELEVENLABS
+
+- Sumber audio: file ElevenLabs yang diberikan pengguna (Senandika — Young, Confident and Clear).
+- Audio asli disimpan di source/ElevenLabs-voiceover-original.wav.
+- File voice-01 sampai voice-08 adalah potongan per scene yang sudah dipadankan dengan durasi scene.
+- Jeda antarscene yang terlalu panjang dipangkas; ucapan tidak dipercepat dan pitch tidak diubah.
+- voiceover.wav adalah gabungan delapan klip yang dipakai renderer lokal.
+- Screenshot di public/assets tidak diubah dalam revisi ini.
+- Visual scene, warna, komposisi, dan isi screenshot dipertahankan; revisi hanya pada audio dan timing scene.

@@ -1,0 +1,23 @@
+{
+  "name": "gaston-yk-jersey-tutorial",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts GastonTutorial out/tutorial-jersey-gaston.mp4 --codec h264",
+    "compositions": "remotion compositions src/index.ts",
+    "preview:local": "python scripts/render_preview.py",
+    "prepare:audio-fallback": "python scripts/prepare_audio.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.360",
+    "remotion": "^4.0.360",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.8.0"
+  }
+}

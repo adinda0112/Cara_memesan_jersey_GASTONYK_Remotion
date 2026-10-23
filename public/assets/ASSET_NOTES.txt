@@ -1,0 +1,8 @@
+Screenshot website GASTON.YK yang diberikan pengguna, sudah dipotong untuk tutorial.
+- catalog.png: katalog asli; URL dan header website tetap terlihat.
+- catalog-store.png: potongan katalog dengan navigasi Store dan baris produk pertama.
+- product-modal.png: modal Beli Langsung asli; nilai nama punggung adalah contoh pada screenshot.
+- checkout-fields.png: nama/nomor WhatsApp asli diganti dengan nilai demo generik.
+- order-summary.png: bagian ringkasan checkout asli.
+- payment-example.png: nominal dinamis dan QRIS aktif disamarkan; hanya contoh tampilan.
+- status-example.png: kode pesanan dan waktu verifikasi disamarkan; hanya contoh status.

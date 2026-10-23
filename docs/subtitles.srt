@@ -1,0 +1,31 @@
+1
+00:00:00,100 --> 00:00:06,100
+Mau pesan jersey GASTON YK? Ikuti panduan singkat ini.
+
+2
+00:00:06,400 --> 00:00:14,800
+Buka gaston.sevenpion.web.id. Pilih Store untuk melihat koleksi.
+
+3
+00:00:15,100 --> 00:00:25,000
+Pilih produk, tekan Beli, lalu atur ukuran. Nama punggung opsional, maksimal 10 huruf. Tentukan jumlah dan tekan Beli Langsung.
+
+4
+00:00:25,333 --> 00:00:30,600
+Isi nama lengkap dan nomor WhatsApp aktif. Catatan tambahan boleh dikosongkan.
+
+5
+00:00:30,900 --> 00:00:36,800
+Cek produk, ukuran, nama, jumlah, dan total. Jika benar, tekan Konfirmasi Pesanan.
+
+6
+00:00:37,100 --> 00:00:42,600
+Di halaman QRIS, cek nominal dan batas waktu. Bayar hanya dengan QRIS pesananmu sendiri. QRIS di video ini disamarkan.
+
+7
+00:00:43,000 --> 00:00:47,300
+Setelah pembayaran terverifikasi, simpan kode pesanan dan pantau statusnya.
+
+8
+00:00:47,650 --> 00:00:54,850
+Untuk pengambilan atau pengiriman, hubungi admin sesuai petunjuk website. Selesai!

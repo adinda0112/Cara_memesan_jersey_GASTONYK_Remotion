@@ -1,0 +1,16 @@
+Kamu sedang mengedit proyek Remotion tutorial "Cara Memesan Jersey di Website GASTON.YK".
+
+Aturan wajib:
+1. Gunakan screenshot yang ada di public/assets saja. Jangan menggambar ulang UI website atau mengarang tombol/fitur.
+2. Jangan mengembalikan data pribadi yang sudah disamarkan, QRIS aktif, kode pesanan, atau waktu verifikasi asli.
+3. Jangan mengklaim transaksi baru berhasil. Status berhasil hanya boleh ditampilkan sebagai contoh status dari screenshot dan narasi harus bersyarat.
+4. Pertahankan format 1080x1920, 30 FPS, sekitar 55–60 detik, dan palet hitam-maroon-putih dengan aksen oranye.
+5. Jaga teks besar dan mudah dibaca di ponsel. Gunakan animasi zoom/pan halus dan highlight tepat pada bagian yang dijelaskan.
+6. Voice-over harus memakai bahasa Indonesia dan pelafalan Indonesia. Jika mengganti TTS, hindari pelafalan bahasa Inggris untuk istilah bahasa Indonesia.
+7. Setelah mengubah kode, jalankan preview, periksa setiap scene, dan render ulang. Pastikan audio tidak terpotong dan musik lebih pelan daripada narasi.
+
+File utama: src/tutorial.tsx
+Asset screenshot: public/assets/
+Audio: public/audio/
+Naskah: docs/NARASI.txt
+Preview/storyboard: preview/final/storyboard.jpg

@@ -1,0 +1,33 @@
+NARASI FINAL — CARA MEMESAN JERSEY DI WEBSITE GASTON.YK
+
+01. PEMBUKA
+Mau pesan jersey GASTON YK? Ikuti panduan singkat ini.
+
+02. BUKA WEBSITE DAN PILIH PRODUK
+Buka gaston titik sevenpion titik web titik id. Pilih Store untuk melihat koleksi.
+
+03. PILIHAN PRODUK
+Pilih produk, tekan Beli, lalu atur ukuran. Nama punggung opsional, maksimal sepuluh huruf. Tentukan jumlah dan tekan Beli Langsung.
+
+04. DATA PEMBELI
+Isi nama lengkap dan nomor WhatsApp aktif. Catatan tambahan boleh dikosongkan.
+
+05. RINGKASAN PESANAN
+Cek produk, ukuran, nama, jumlah, dan total. Jika benar, tekan Konfirmasi Pesanan.
+
+06. PEMBAYARAN QRIS
+Di halaman QRIS, cek nominal dan batas waktu. Bayar hanya dengan QRIS pesananmu sendiri. QRIS di video ini disamarkan.
+
+07. STATUS PESANAN
+Setelah pembayaran terverifikasi, simpan kode pesanan dan pantau statusnya.
+
+08. PENUTUP
+Untuk pengambilan atau pengiriman, hubungi admin sesuai petunjuk website. Selesai!
+
+CATATAN AKURASI DAN PRIVASI
+- Screenshot berasal dari gambar website GASTON.YK yang dikirim pengguna.
+- Pada screenshot checkout, data pembeli diganti dengan contoh generik.
+- QRIS aktif dan nominal dinamis disamarkan; gambar QRIS dalam video hanya ilustrasi dan tidak boleh digunakan untuk membayar.
+- Kode pesanan serta waktu verifikasi pada contoh status disamarkan.
+- Status pembayaran dijelaskan secara bersyarat; video tidak mengklaim transaksi baru telah berhasil.
+- Voice-over menggunakan TTS lokal dengan bahasa Indonesia (espeak voice id+f2), kecepatan 175 kata/menit, dan jeda antarkalimat.

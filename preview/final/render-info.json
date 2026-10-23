@@ -1,0 +1,57 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1651,
+  "duration_seconds": 55.03333333333333,
+  "scenes": [
+    {
+      "id": "intro",
+      "frames": 189,
+      "seconds": 6.3,
+      "title": "CARA MEMESAN JERSEY GASTON.YK"
+    },
+    {
+      "id": "catalog",
+      "frames": 261,
+      "seconds": 8.7,
+      "title": "Buka Store dan pilih produk"
+    },
+    {
+      "id": "options",
+      "frames": 307,
+      "seconds": 10.233,
+      "title": "Atur pilihan produk"
+    },
+    {
+      "id": "checkout",
+      "frames": 167,
+      "seconds": 5.567,
+      "title": "Isi data pembeli"
+    },
+    {
+      "id": "summary",
+      "frames": 186,
+      "seconds": 6.2,
+      "title": "Periksa pesanan"
+    },
+    {
+      "id": "payment",
+      "frames": 175,
+      "seconds": 5.833,
+      "title": "Selesaikan pembayaran"
+    },
+    {
+      "id": "status",
+      "frames": 140,
+      "seconds": 4.667,
+      "title": "Pantau status pesanan"
+    },
+    {
+      "id": "outro",
+      "frames": 226,
+      "seconds": 7.533,
+      "title": "Selesai, tinggal pantau!"
+    }
+  ]
+}
